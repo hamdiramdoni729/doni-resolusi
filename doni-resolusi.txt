@@ -1,3 +1,5 @@
 doni resolusi
 - Konsisten dalam mengerjakan project
 - membuat platform untuk mengelolaan propject
+- membuat aplikasi web
+- berkolaborasi dengan banyak relasi
